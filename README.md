@@ -20,7 +20,7 @@ The goal is to uncover insights, detect patterns, and better understand the sale
 - Seaborn
 
 ## 📂 Files in This Repository
-- `02-exploratory-data-analysis-with-sales-data.ipynb` → Main notebook with code and visualizations.
+- `Copy_of_02_exploratory_data_analysis_with_sales_data.ipynb` → Main notebook with code and visualizations.
 - `data/` → (Optional) Folder containing the raw sales dataset.
 - `README.md` → Project overview and instructions.
 
